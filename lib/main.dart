@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'virusofgod test flutter all platforms',
+      title: 'new virusofgods test flutter all platforms',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'virusofgod new program with git snova'),
+      home: const MyHomePage(title: 'virusofgod with new program with git snova'),
     );
   }
 }
